@@ -1,0 +1,1 @@
+#find the sum of square of a digit in a given number
